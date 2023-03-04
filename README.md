@@ -1,13 +1,7 @@
-## Clone this Repository
+## Video Demo 
 
-You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
-git clone "git@github.com:danishagarwal/nioclasTask_DanishAgarwal.git"
 
-## Install dependencies
 
-npm install
+https://user-images.githubusercontent.com/81150631/222893675-90eedcc5-f933-40bb-87e1-a7a98cec62d7.mp4
 
-## Start the server
-
-npm start
